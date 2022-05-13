@@ -1,3 +1,1 @@
-# This is an exmaple file
-
-This is not example text
+There is nothing of note in this file
